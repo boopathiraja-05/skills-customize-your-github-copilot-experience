@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "files-and-exceptions",
+      "title": "Working with Files and Exceptions",
+      "description": "Read and write text files in Python while handling common errors safely",
+      "path": "assignments/files-and-exceptions",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
